@@ -1,0 +1,15 @@
+# entorno virtual
+myenv/
+
+# datos
+data/
+
+# archivos de Python
+__pycache__/
+*.pyc
+
+# notebooks checkpoints
+.ipynb_checkpoints/
+
+# archivos del sistema
+.DS_Store
