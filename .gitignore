@@ -1,8 +1,10 @@
 # entorno virtual
 myenv/
+.venv/
 
 # datos
-data/
+data/*
+!data/diagnostico_outputs/
 
 # archivos de Python
 __pycache__/
