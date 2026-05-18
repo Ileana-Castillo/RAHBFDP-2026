@@ -4,7 +4,6 @@ myenv/
 
 # datos
 data/*
-!data/diagnostico_outputs/
 
 # archivos de Python
 __pycache__/
